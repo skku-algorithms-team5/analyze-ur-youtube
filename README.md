@@ -1,6 +1,6 @@
 # analyze-ur-youtube
 
-Analyze your youtube
+Analyze your YouYube video.
 
 # Runtimes and Package Managers
 
@@ -16,7 +16,17 @@ Analyze your youtube
 - python 3.12.0
 - pipenv 2023.11.15
 
-## How to Run Backend
+# How to Run
+
+## Frontend
+
+```zsh
+cd frontend
+npm install
+npm run dev
+```
+
+## Backend
 
 ```zsh
 pip install pipenv
