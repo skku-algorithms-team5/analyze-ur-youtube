@@ -1,8 +1,10 @@
 # analyze-ur-youtube
 
-analyze your youtube
+Analyze your youtube
 
-# Runtimes and package managers
+# Runtimes and Package Managers
+
+- runtime version 정보는 `.tool-versions` 파일에 명시되어 있습니다.
 
 ## Frontend
 
